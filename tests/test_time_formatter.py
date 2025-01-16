@@ -24,6 +24,4 @@ def test_edge_cases():
 
 
 if __name__ == "__main__":
-    test_format_time()
-    test_edge_cases()
-    # Replace with the actual function name you want to debug
+    pytest.main()
